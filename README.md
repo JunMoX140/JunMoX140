@@ -18,10 +18,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F3F73B&width=435&lines=%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%98%E2%A2%B7%E2%A1%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%88%E2%A0%93%E2%A0%92%E2%A0%8B%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A2%BB%E2%A1%87%E2%A0%80%E2%A0%80%E2%A0%80)](https://git.io/typing-svg)<br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F3F73B&width=435&lines=%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%88%E2%A1%87%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A2%B8%E2%A3%A7%E2%A0%80%E2%A0%80%E2%A0%80)](https://git.io/typing-svg)<br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F3F73B&width=435&lines=%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%88%E2%A0%89%E2%A0%89%E2%A0%89%E2%A0%89%E2%A0%89%E2%A0%89%E2%A0%89%E2%A0%89%E2%A0%89%E2%A0%89%E2%A0%89%E2%A0%89%E2%A0%89%E2%A0%89%E2%A0%89%E2%A0%89%E2%A0%89%E2%A0%89%E2%A0%89%E2%A0%89%E2%A0%81%E2%A0%80%E2%A0%80%E2%A0%80)](https://git.io/typing-svg)
-
-</h6>
-
+  
+<h6 align="center"><em>
+  this is Suprised Pikachu Face if you didn't get it </em></h6>
+<br>
+<br> 
+    
 ***
+
+
 <h4 align="center">⚡ Fun fact: </h4>
 
 <p align="center">
@@ -32,7 +37,7 @@
 <br>  
   
 <h4 align="center">
-❗❗❗This person is too lazy to make his profile look professional. Please come back when this person has completed his bootcamp.❗❗❗
+❗❗❗This person is too lazy to make his profile look professional. Please come back when he has completed his bootcamp.❗❗❗
 <br>
 <br>
 <br>
