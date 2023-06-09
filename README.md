@@ -1,4 +1,18 @@
+<details>
+<summary>Nothing to See Here</summary>
+
+<br>
+
+<div align=center>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey+There!+👋;I'm+Dan+👨;aka+Danever+🤵;Full+Stack+Web+Developer+🖥️;Gamer+🎮;Memer+🤦🏽‍♂️;Whatever+🤷🏽‍♂️;...;also,+I+like+rhymes+🤣" alt="Typing SVG" /></a>
+  </div>
+</div>
+
+<br>
+
 ***
+<br>
+
 ![](https://komarev.com/ghpvc/?username=JunMoX140&color=880E4F&style=for-the-badge)
 
 <h4 align="center">This is me when you view my profile ⬇️⬇️⬇️⬇️ </h4>
